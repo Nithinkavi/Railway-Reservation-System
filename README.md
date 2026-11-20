@@ -1,8 +1,8 @@
 # Railway-Reservation-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225040286
+# Name:NITHIN KAVI A R
+# Date:20.11.2026
 
 
 # AIM:
@@ -58,6 +58,7 @@ Better understand the general overview of the schematics of an application.
 Visually express any specific needs of a system and disseminate that information throughout the business.
 
 Create detailed charts that…
+<img width="753" height="455" alt="Screenshot 2026-10-27 144409" src="https://github.com/user-attachments/assets/ff72168f-b41c-465a-bc99-1afc291ea8f7" />
 
 
 
