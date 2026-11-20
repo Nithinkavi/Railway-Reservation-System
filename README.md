@@ -40,6 +40,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
+![Uploading image.png…]()
 
 
 
